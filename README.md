@@ -48,8 +48,15 @@ functions compute flow, where we can calculate and compute the optical flow from
 ![Loss_50_epoch.png](https://github.com/awethaileslassie/awet_mnist_pytorch/blob/master/Loss_50_epoch.png)
 
 
-# Model Loss during Training for 50 epoches 
-![Loss_50_epoch.png](https://github.com/awethaileslassie/awet_mnist_pytorch/blob/master/Loss_50_epoch.png)
+# Model Loss during Training for 30 epoches 
+![5_3-loss.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/5_3-valloss.png)
 
-# Model Accuracy during Training for 50 epoches
-![Accuracy_50_epoch.png](https://github.com/awethaileslassie/awet_mnist_pytorch/blob/master/Accuracy_50_epoch.png)
+# Model Accuracy during Training for 30 epoches
+![5_3-acc.png](https://github.com/awethaileslassie/awet_mnist_pytorch/blob/master/Accuracy_50_epoch.png)
+
+
+# Model Loss during Testing for 30 epoches 
+![5_3-valloss.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/5_3-valloss.png)
+
+# Model Accuracy during Testing for 30 epoches
+![5_3-valacc.png](https://github.com/awethaileslassie/awet_mnist_pytorch/blob/master/Accuracy_50_epoch.png)
