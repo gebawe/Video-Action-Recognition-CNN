@@ -45,7 +45,7 @@ The 2nd thing to do is to compute flow for each video sequence. For doing so, we
 functions compute flow, where we can calculate and compute the optical flow from the video.
 
 # Architecture
-![Loss_50_epoch.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/architecture.jpeg)
+![Loss_50_epoch.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/architecture.jpg)
 
 
 # Model Loss during Training for 30 epoches 
@@ -59,4 +59,4 @@ functions compute flow, where we can calculate and compute the optical flow from
 ![5_3-valloss.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/5_3-valloss.png)
 
 # Model Accuracy during Testing for 30 epoches
-![5_3-valacc.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/5_3-vallacc.png)
+![5_3-valacc.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/5_3-valacc.png)
