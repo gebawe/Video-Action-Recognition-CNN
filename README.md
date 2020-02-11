@@ -23,13 +23,12 @@ then simply type:
 python skeleten.py
 
 
-### Description
+### Datasets
 
-The code provides a predefined model.
-The  model is CNN (convolutional neural networks).
+The Datasets used by CNN model "UCF101 Datasets", some examples are shown below: 
 
 ![data.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/data.png)
-The network is trained and evaluated on MNIST dataset with classification accuracy. 
+The network is trained and evaluated on UCF101 dataset with classification accuracy. 
 
 
 #### Part 3: CNN model
@@ -45,7 +44,7 @@ The 2nd thing to do is to compute flow for each video sequence. For doing so, we
 functions compute flow, where we can calculate and compute the optical flow from the video.
 
 # Architecture
-![Loss_50_epoch.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/architecture.jpg)
+![architecture.jpg](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/architecture.jpg)
 
 
 # Model Loss during Training for 30 epoches 
