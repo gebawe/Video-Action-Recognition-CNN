@@ -28,7 +28,7 @@ python skeleten.py
 The code provides a predefined model.
 The  model is CNN (convolutional neural networks).
 
-![dataset_after_change_1_if_image_represents_number_3_and_0_otherwise.png](https://github.com/awethaileslassie/awet_mnist_pytorch/blob/master/dataset_after_change_"1"_if_image_represents_number_3_and_"0"_otherwise.png)
+![data.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/data.png)
 The network is trained and evaluated on MNIST dataset with classification accuracy. 
 
 
@@ -45,7 +45,7 @@ The 2nd thing to do is to compute flow for each video sequence. For doing so, we
 functions compute flow, where we can calculate and compute the optical flow from the video.
 
 # Architecture
-![Loss_50_epoch.png](https://github.com/awethaileslassie/awet_mnist_pytorch/blob/master/Loss_50_epoch.png)
+![Loss_50_epoch.png](https://github.com/awethaileslassie/Implementation-of-CNN-for-action-recognition-in-videos/blob/master/DLCV5_Graphs/architecture.jpeg)
 
 
 # Model Loss during Training for 30 epoches 
