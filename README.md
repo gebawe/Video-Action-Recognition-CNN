@@ -2,7 +2,7 @@
 Deep Learning in Computer Vision to build a convolutional neural network with the Keras framework in Python aimed at recognizing actions in videos.  The UCF101 dataset, which is formed by YouTube videos gathered in 101 categories is used to train and test the proposed approach.
 A siamese convolutional network has ben developed formed by two branches that uses the same weights Each branch has the same architecture while working in tandem on two different input vectors to compute comparable output vectors. One of the branches will correspond to the actual frame of the video (RGB frame), while the other one will correspond to its optical flow. In this way, by checking both characteristics at the same time and merging them, we will obtain the probabilities of the video belonging to each of the 101 classes.
 
-## mplementation-of-CNN-for-action-recognition-in-videos
+## CNN-for-action-recognition-in-videos
 
 Author: Awet Haileslassie Gebrehiwot(awethaileslassie21@gmail.com)
 
@@ -33,7 +33,7 @@ The network is trained and evaluated on UCF101 dataset with classification accur
 
 #### Part 3: CNN model
 
-The siams CNN model contains two Baranches
+The siamse CNN model contains two Baranches
 One of the branches will correspond to the actual frame of the video (RGB frame), while the other one will correspond to its optical flow. then both will be conacatnated to result in better performance for action recognition of the 101 classes.
 
 1: Extract RGB 
